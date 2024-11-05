@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICode", "WebAPICode\WebAPICode.csproj", "{27D15158-9FDD-45D4-A8B9-8F3A45BB4F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICodeTest", "WebAPICodeTest\WebAPICodeTest.csproj", "{8C81705F-7EE0-4294-B107-574C30FC399D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D15158-9FDD-45D4-A8B9-8F3A45BB4F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D15158-9FDD-45D4-A8B9-8F3A45BB4F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D15158-9FDD-45D4-A8B9-8F3A45BB4F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D15158-9FDD-45D4-A8B9-8F3A45BB4F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C81705F-7EE0-4294-B107-574C30FC399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C81705F-7EE0-4294-B107-574C30FC399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C81705F-7EE0-4294-B107-574C30FC399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C81705F-7EE0-4294-B107-574C30FC399D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
